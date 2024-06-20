@@ -77,49 +77,6 @@ The XGBoost regression model achieved the highest accuracy with an RMSE of 2931.
 **Conclusion**
 The project explored four machine learning models to predict customer purchase amounts on Black Friday using the Black Friday dataset. The XGBoost regression model achieved the best performance, demonstrating the potential of ML models to aid businesses in targeting marketing campaigns and improving sales strategies.
 
-**Installation**
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/black-friday-ml.git
-Navigate to the project directory:
-bash
-Copy code
-cd black-friday-ml
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Prepare the dataset:
-Place the Black Friday dataset in the data/ directory.
-Run the data preprocessing script:
-bash
-Copy code
-python preprocess_data.py
-Train the models:
-bash
-Copy code
-python train_models.py
-Evaluate the models:
-bash
-Copy code
-python evaluate_models.py
-Use the best model to make predictions:
-bash
-Copy code
-python predict.py
-Features
-Predict customer purchase amounts using multiple regression models.
-Analyze customer demographics and purchase behaviors.
-Identify important features influencing customer purchases.
-Deploy the best-performing model to a production environment.
-Contributing
-Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Contact Information
-For questions or support, please contact Ulya Tsaniya at ulya.tsaniya@example.com.
+For questions or support, please contact Ulya Tsaniya at ulyaatsaniya@gmail.com.
 
