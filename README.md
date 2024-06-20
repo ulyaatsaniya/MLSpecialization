@@ -1,4 +1,4 @@
-***Google Cloud End-to-End Machine Learning Using Black Friday Dataset to Predict Customer Purchase**
+**Google Cloud End-to-End Machine Learning Using Black Friday Dataset to Predict Customer Purchase**
 
 **Abstract**
 
