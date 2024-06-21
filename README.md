@@ -7,8 +7,6 @@ In this project, we aim to predict the purchasing amounts of customers during Bl
 > Link: https://demo2-uly-56prtrfi3a-uc.a.run.app/
 ----
 
-![](Webapp.gif)
-
 ## Introduction
 In the realm of retail, Black Friday stands as a pivotal moment, attracting customers with its enticing deals and discounts. To capitalize on this lucrative opportunity, businesses strive to anticipate consumer behavior and tailor their strategies accordingly. Machine learning (ML) offers a powerful tool in this regard, enabling businesses to leverage data to make informed decisions. In this project, a Black Friday dataset was analyzed using ML classification models, with the aim of predicting individual customer purchases. Among the various models tested, XGBoost regression emerged as the most effective in identifying likely purchases. This model holds significant promise for businesses looking to optimize their sales strategies during the busiest shopping day of the year.
 
