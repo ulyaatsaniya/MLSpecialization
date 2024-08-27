@@ -40,7 +40,7 @@ X = train.drop('Purchase', axis = 1)
 X = scaler.fit_transform(X) 
 
 # Streamlit App
-st.title("Customer Purchase Prediction 🌼")
+st.title("Customer Purchase Prediction 🛍️")
 
 age = st.selectbox("Select Age Range", 
                    ['0-17', '18-25', '26-35', '36-45', '46-50', '51-55', '55+'])
